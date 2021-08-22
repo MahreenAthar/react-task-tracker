@@ -1,9 +1,8 @@
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <h1>Hello From React</h1>
     </div>
   );
 }
-
 export default App;
