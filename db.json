@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30 pm",
-      "reminder": true
-    },
-    {
       "id": 2,
       "text": "Meeting at school",
       "day": "Feb 6th at 1:30 pm",
@@ -17,6 +11,12 @@
       "text": "Lab OS ",
       "day": "Tuesday at Karakoram2",
       "reminder": true
+    },
+    {
+      "text": "hfyj",
+      "day": "ftk",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
